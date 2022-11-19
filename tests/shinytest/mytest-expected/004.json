@@ -2,10 +2,10 @@
   "input": {
     "x": 85,
     "y": 9,
-    "z": 28
+    "z": 30
   },
   "output": {
-    "out": "Result: 2812"
+    "out": "Result: 2964"
   },
   "export": {
 
